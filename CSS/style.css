@@ -1,0 +1,122 @@
+body {
+color: #40514E;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  padding-left: 20px;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  line-height: 2;
+}
+hr {
+  border: dotted;
+  border-color: #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+.top {
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+.pro {
+  text-decoration: underline;
+}
+.bot-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.up-cloud {
+position: absolute;
+right: 300px;
+top: 40px;
+}
+.anch{
+  color:  #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.anch:hover {
+  color: #40514E;
+}
+.skill-row {
+
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.web-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+
+}
+.code-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+.intro {
+
+  margin: 0 auto 0 auto;
+  width: 30%;
+}
+.middle {
+   margin: 100px 0 100px 0;
+}
+.touch {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+.myButton {
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.copy {
+  color: #EAF6F6;
+  
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
